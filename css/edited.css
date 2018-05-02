@@ -1,0 +1,40 @@
+body{
+                background-color: #eaebef;
+                background-color: #ffffff;
+            }
+            .search-bar{
+                padding-top: 30px;
+                padding-bottom: 70px;
+            }
+            .btn-space {
+                margin-right: 2px;
+                margin-left:  2px;
+            }
+            .row-space {
+                margin-right: 5px;
+            }
+            .square{
+                border-radius: 0;
+            }
+            .panel-body{
+                background-color:#f2dede;
+            }
+            .list-group{
+                padding-left: 10px;
+            }
+            .top-questions{
+                font-weight: normal;
+                font-size: 150%;
+
+            }
+            .footer{
+                margin-top: 20px;
+                background-color:#000000; 
+                width: 100%;
+                font-weight: normal;
+                font-size: 150%;
+                padding: 20px;
+            }
+            .question-summary{
+                width: 100%;
+            }
