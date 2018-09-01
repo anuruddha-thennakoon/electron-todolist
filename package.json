@@ -1,5 +1,5 @@
 {
-  "name": "electron-app-test",
+  "name": "electron-todolist",
   "version": "1.0.0",
   "description": "A test Electron application",
   "main": "main.js",
